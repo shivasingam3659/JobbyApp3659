@@ -1,0 +1,33 @@
+.filter-group-container {
+  width: 100%;
+}
+
+.filter-line {
+  width: 50%;
+  min-width: 350px;
+}
+
+.filter {
+  color: white;
+  font-size: 17px;
+}
+
+.custom-heading {
+  font-size: 20px;
+  color: white;
+  font-family: 'Roboto';
+}
+
+.employment-item-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding-bottom: 10px;
+}
+
+.salary-item-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding-bottom: 10px;
+}
